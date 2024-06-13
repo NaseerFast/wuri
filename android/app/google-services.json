@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "212165808008",
+    "project_id": "wuriv1-z56esq",
+    "storage_bucket": "wuriv1-z56esq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212165808008:android:0553857ce42c45be38743d",
+        "android_client_info": {
+          "package_name": "com.flutterflow.homeU"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcI8PFMz0UvRu2IPR0WsHVkV8Sqa3RE6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212165808008:android:1a0d4123bbedde0338743d",
+        "android_client_info": {
+          "package_name": "com.flutterflow.wuri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcI8PFMz0UvRu2IPR0WsHVkV8Sqa3RE6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
